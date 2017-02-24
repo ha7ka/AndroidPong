@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/Master/Android/Modules/Pong/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.4.1-998e78cb71fce285f7695fe86a52697b93bef61f.jar"
+        jar="/Users/Master/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.4.1/9e6453d244896698694a7f3059f15ae509044101/gdx-box2d-1.4.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9e6453d244896698694a7f3059f15ae509044101"/>
+    <item
+        dex="/Users/Master/Android/Modules/Pong/android/build/intermediates/pre-dexed/debug/gdx-controllers-1.4.1-76f75c492d8c59e91859427e34c47ed763a58c98.jar"
+        jar="/Users/Master/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-controllers/1.4.1/70b356b52bac1cb0fd19b530e0e1ddac5776ab21/gdx-controllers-1.4.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="70b356b52bac1cb0fd19b530e0e1ddac5776ab21"/>
+    <item
+        dex="/Users/Master/Android/Modules/Pong/android/build/intermediates/pre-dexed/debug/ashley-1.3.1-ece768807f3cbed3341ba701bb8e3650b3844810.jar"
+        jar="/Users/Master/.gradle/caches/modules-2/files-2.1/com.badlogicgames.ashley/ashley/1.3.1/43aed4ac92b8cce24e92a3836eb5ac916026b49f/ashley-1.3.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="43aed4ac92b8cce24e92a3836eb5ac916026b49f"/>
+    <item
+        dex="/Users/Master/Android/Modules/Pong/android/build/intermediates/pre-dexed/debug/box2dlights-1.3-d188ce04e46561431879a04f705824eb041c2954.jar"
+        jar="/Users/Master/.gradle/caches/modules-2/files-2.1/com.badlogicgames.box2dlights/box2dlights/1.3/e829c3543ab5a6b3ff818615a8620024f6a14fe0/box2dlights-1.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e829c3543ab5a6b3ff818615a8620024f6a14fe0"/>
+    <item
+        dex="/Users/Master/Android/Modules/Pong/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.4.1-867f782e36e30430b8d04add991d3d8354ed08ce.jar"
+        jar="/Users/Master/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.4.1/eca2621f18b162c03992bd3ecc226e8a477dc6f9/gdx-backend-android-1.4.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="eca2621f18b162c03992bd3ecc226e8a477dc6f9"/>
+    <item
+        dex="/Users/Master/Android/Modules/Pong/android/build/intermediates/pre-dexed/debug/gdx-controllers-android-1.4.1-4eaa8604e17656fae87b0738df6d5fb4eec2d079.jar"
+        jar="/Users/Master/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-controllers-android/1.4.1/5f8ec5c6c39339d2be0eb72a1ee15e8582a0b5b5/gdx-controllers-android-1.4.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="5f8ec5c6c39339d2be0eb72a1ee15e8582a0b5b5"/>
+    <item
+        dex="/Users/Master/Android/Modules/Pong/android/build/intermediates/pre-dexed/debug/gdx-freetype-1.4.1-9b34746ca8be476f4a5c7fe28aa6bdbe2d4e7719.jar"
+        jar="/Users/Master/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-freetype/1.4.1/5f54c6af55fa98e8dc469809e952c980e07541a/gdx-freetype-1.4.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="05f54c6af55fa98e8dc469809e952c980e07541a"/>
+    <item
+        dex="/Users/Master/Android/Modules/Pong/android/build/intermediates/pre-dexed/debug/core-1.0-8f547425227f18a71cf4c0aa8331395ccd9b8666.jar"
+        jar="/Users/Master/Android/Modules/Pong/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="8313bef267162046a31a6bd7d500f463789ca52a"/>
+    <item
+        dex="/Users/Master/Android/Modules/Pong/android/build/intermediates/pre-dexed/debug/gdx-1.4.1-2b7b7fd4b1bf95fa8e56830b763da26584b644d8.jar"
+        jar="/Users/Master/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.4.1/df470d263438048af74860ca51fc497c16a0c76a/gdx-1.4.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="df470d263438048af74860ca51fc497c16a0c76a"/>
+    <item
+        dex="/Users/Master/Android/Modules/Pong/android/build/intermediates/pre-dexed/debug/gdx-ai-1.4.0-7818e48e8fe512de9a896e33e8c52fc46f3e62c5.jar"
+        jar="/Users/Master/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-ai/1.4.0/f7532801d6c1526df4a609341fa145acb9e8eb3a/gdx-ai-1.4.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="f7532801d6c1526df4a609341fa145acb9e8eb3a"/>
+
+</pre-dex-items>
